@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Apple Landing
+Apple landing website for testing AEM capabilities
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.aem.page/
